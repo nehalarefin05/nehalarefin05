@@ -7,10 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&size=22&duration=3500&pause=1000&color=00b3ff&width=800&height=55&center=true&vCenter=true&lines=Exploring+AI+and+Computer+Vision;Building+Intelligent+Systems;Software+Development+and+Robotics;Code+with+Curiosity.+Build+with+Purpose." alt="Typing animation: Exploring AI and Computer Vision, Building Intelligent Systems, Software Development and Robotics, Code with Curiosity. Build with Purpose." />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nehalarefin05&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views counter for nehalarefin05" />
-</p>
-
 ---
 
 ## 🖥️ Terminal

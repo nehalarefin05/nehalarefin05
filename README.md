@@ -4,13 +4,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=22&duration=3500&pause=1000&color=00b3ff&lines=Exploring+AI+and+Computer+Vision;Building+Intelligent+Systems;Engineering+with+Curiosity;Turning+Ideas+into+Working+Projects" alt="Typing animation: Exploring AI and Computer Vision, Building Intelligent Systems, Engineering with Curiosity, Turning Ideas into Working Projects" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&size=22&duration=3500&pause=1000&color=00b3ff&width=800&lines=Exploring+AI+and+Computer+Vision;Building+Intelligent+Systems;Software+Development+and+Robotics;Code+with+Curiosity.+Build+with+Purpose." alt="Typing animation: Exploring AI and Computer Vision, Building Intelligent Systems, Software Development and Robotics, Code with Curiosity. Build with Purpose." />
 </p>
 
 <p align="center">
-  <a href="https://github.com/nehalarefin05">
-    <img src="https://komarev.com/ghpvc/?username=nehalarefin05&label=PROFILE%20VIEWS&color=00b3ff&style=flat&label_color=0c1014" alt="Profile views counter for nehalarefin05" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=nehalarefin05&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile views counter for nehalarefin05" />
 </p>
 
 ---
